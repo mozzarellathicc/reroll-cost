@@ -5,7 +5,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "mozzarellathicc"
 name = "Static_Reroll_Cost"
-versionNumber = "0.0.0"
+versionNumber = "1.0.0"
 description = "Rerolls no longer increase in cost."
 websiteUrl = "https://github.com/mozzarellathicc/reroll-cost"
 containsNsfwContent = false
